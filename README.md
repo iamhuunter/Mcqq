@@ -24,4 +24,4 @@ To get started with Generate MCQs and Chat with PDFs, follow these steps:
 
 - Chat with PDFs: Engage in real-time chat conversations with PDFs using the integrated Gemini model, discussing and collaborating on document content.
 
-[!sample_image](https://github.com/joyce0803/Generate-MCQs-from-PDFs/blob/main/img.png)
+![sample_image](https://github.com/joyce0803/Generate-MCQs-from-PDFs/blob/main/img.png)
